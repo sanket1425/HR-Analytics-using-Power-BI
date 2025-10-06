@@ -62,9 +62,6 @@
 - Department-Specific Interventions.
 - Focus on R&D and Sales for deeper engagement and workload balance.
 - Career Development for Young Talent.
-
-Offer career progression paths to retain the 26–35 age group.
-
-Gender-Sensitive Policies
-
-Address higher female attrition in Life Sciences and Medical fields.
+- Offer career progression paths to retain the 26–35 age group.
+- Gender-Sensitive Policies
+- Address higher female attrition in Life Sciences and Medical fields.
